@@ -15,7 +15,7 @@
 |-------|------|
 | HTML | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/> |
 | CSS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/> |
-| JavaScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> |
+| JavaScript(Beginner)| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> |
 | C Language | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="30"/> |
 | Git | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/> |
 
