@@ -47,6 +47,64 @@
         </div>
     </section>
 
-    <script src="script.js"></script>
+        <!-- Background audio: put `back_in_black.mp3` -->
+        <audio id="bg-audio" src="back_in_black.mp3" loop preload="auto"></audio>
+
+        <!-- Disc-style player button (hidden if autoplay succeeds) -->
+        <button id="disc-btn" class="disc-btn" aria-label="Play background music" title="Play background music" hidden>
+          <span class="disc-image" aria-hidden="true"></span>
+          <span class="play-icon" aria-hidden="true">▶</span>
+        </button>
+
+        <script>
+        (function(){
+            const audio = document.getElementById('bg-audio');
+            const discBtn = document.getElementById('disc-btn');
+
+            function setPlaying(on){
+                if (!discBtn) return;
+                discBtn.classList.toggle('playing', !!on);
+                discBtn.setAttribute('aria-pressed', on ? 'true' : 'false');
+                discBtn.title = on ? 'Pause music' : 'Play music';
+                const icon = discBtn.querySelector('.play-icon');
+                if (icon) icon.style.opacity = on ? '0' : '1';
+            }
+
+            function tryPlay(){
+                if (!audio) return Promise.reject();
+                return audio.play().then(()=> {
+                    if (discBtn) { discBtn.hidden = false; setPlaying(true); }
+                });
+            }
+
+            document.addEventListener('DOMContentLoaded', function(){
+                tryPlay().catch(()=> {
+                    if (discBtn){ discBtn.hidden = false; setPlaying(false); }
+                });
+
+                ['click','keydown','touchstart'].forEach(ev => {
+                    window.addEventListener(ev, function once(){ tryPlay().catch(()=>{}); }, {once:true});
+                });
+
+                if (discBtn) {
+                    discBtn.addEventListener('click', function(){
+                        if (audio.paused) {
+                            audio.play().then(()=> setPlaying(true)).catch(()=>{});
+                        } else {
+                            audio.pause();
+                            setPlaying(false);
+                        }
+                    });
+                }
+
+                if (audio) {
+                    audio.addEventListener('play', ()=> setPlaying(true));
+                    audio.addEventListener('pause', ()=> setPlaying(false));
+                }
+            });
+        })();
+        </script>
+
+        <script src="script.js"></script>
 </body>
 </html>
