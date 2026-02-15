@@ -1,51 +1,95 @@
 <div align="center">
 
-# Saksham Mandal
-Frontend Developer • Python Backend • AI Automation
+# 👋 Hi, I'm Saksham Mandal  
+
+### 🚀 Frontend Developer • 🐍 Python Backend Developer  
+### 🔄 Transitioning into AI / ML
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Developing+with+Python+Backend;Currently+Shifting+into+AI+%2F+Machine+Learning" />
 
 </div>
 
 ---
 
-## About Me
-I build projects to understand systems deeply.  
-Focused on clean architecture, automation, and real-world problem solving.
+## 🧠 About Me
+
+I build full-stack systems and focus heavily on backend architecture with Python.  
+Currently expanding into Artificial Intelligence and Machine Learning using core Python libraries.
+
+- 🏗️ Strong frontend foundation  
+- ⚙️ Backend APIs with Python  
+- 🧠 Learning AI / ML step-by-step  
+- 📈 Focused on long-term engineering growth  
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend**
-- HTML
-- CSS
-- JavaScript
-- React.js (React JavaScript library)
-- Next.js (React framework)
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="35"/>
+  <img src="https://skillicons.dev/icons?i=css" height="35"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="35"/>
+  <img src="https://skillicons.dev/icons?i=react" height="35"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="35"/>
+</p>
 
-**Backend**
-- Python
-- FastAPI
-- Flask
+### 🐍 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="35"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="35"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="35"/>
+</p>
 
-**Automation & Tools**
-- n8n (Workflow automation)
-- Git
-- GitHub
-- Docker
+### 🔬 Exploring AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="35"/>
+</p>
+
+Working with:
+- NumPy  
+- Pandas  
+- Scikit-learn  
+- TensorFlow / PyTorch (learning phase)
 
 ---
 
-## Currently Learning
-- Advanced Python backend development  
-- System design fundamentals  
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sakshammandal12345-ui&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshammandal12345-ui&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Advanced Python backend systems  
 - API architecture & deployment  
+- Building ML foundations with Python libraries  
+- Integrating ML models into web applications  
 
 ---
 
-## GitHub
-https://github.com/sakshammandal12345-ui
+<div align="center">
+
+### 🌐 Connect With Me
+
+<a href="https://github.com/sakshammandal12345-ui">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-Learning. Building. Improving.
+<div align="center">
+
+**Learning deeply. Building consistently. Shifting intelligently.**
+
+</div>
   
