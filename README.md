@@ -5,7 +5,7 @@
 ### 🚀 Frontend Developer • 🐍 Python Backend Developer  
 ### 🔄 Transitioning into AI / ML
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Developing+with+Python+Backend;Currently+Shifting+into+AI+%2F+Machine+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Developing+with+Python+Backend;Later+Shift+into+AI+%2F+Machine+Learning" />
 
 </div>
 
