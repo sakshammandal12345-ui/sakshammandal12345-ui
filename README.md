@@ -57,11 +57,8 @@ Working with:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sakshammandal12345-ui&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshammandal12345-ui&theme=tokyonight&hide_border=true" height="170"/>
-
+  <img src="https://YOUR-VERCEL-STATS-URL/api?username=sakshammandal12345-ui&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="GitHub Stats"/>
+  <img src="https://YOUR-VERCEL-STREAK-URL/?user=sakshammandal12345-ui&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="GitHub Streak"/>
 </div>
 
 ---
