@@ -58,7 +58,7 @@ Working with:
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=sakshammandal12345-ui&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-fast.vercel.app/streak?user=sakshammandal12345-ui&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="GitHub Streak"/>
+  <img src="https://nice-readme.vercel.app/api/streak?user=sakshammandal12345-ui&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="GitHub Streak"/>
 </div>
 
 ---
