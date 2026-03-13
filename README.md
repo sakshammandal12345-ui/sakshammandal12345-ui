@@ -54,14 +54,20 @@ Working with:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=sakshammandal12345-ui&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="GitHub Stats"/>
-  <img src="https://nice-readme.vercel.app/api/streak?user=sakshammandal12345-ui&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="GitHub Streak"/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=sakshammandal12345-ui&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=00FF00&icon_color=00FF00" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sakshammandal12345-ui&theme=radical&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=FF6347&currStreakNum=00FF00&dates=c9d1d9" alt="GitHub Streak" width="48%" />
+
 </div>
 
----
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=sakshammandal12345-ui&color=00FF00&style=for-the-badge)
+
+</div>
 
 ## 🎯 Current Focus
 
