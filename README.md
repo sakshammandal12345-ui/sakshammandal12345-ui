@@ -60,11 +60,11 @@ Full-stack developer focused on backend architecture and scalable systems.
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=sakshammandal12345-ui&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00FF00&icon_color=00FF00"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ironSakxam&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00FF00&icon_color=00FF00"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sakshammandal12345-ui&theme=radical&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=FF6347&currStreakNum=00FF00&dates=c9d1d9"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ironSakxam&theme=radical&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=FF6347&currStreakNum=00FF00&dates=c9d1d9"/>
 
 </div>
 
@@ -83,7 +83,7 @@ Full-stack developer focused on backend architecture and scalable systems.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sakshammandal12345-ui&color=00FF00&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=ironSakxam&color=00FF00&style=flat-square"/>
 
 </div>
 
