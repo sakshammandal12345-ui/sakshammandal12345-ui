@@ -12,7 +12,7 @@
 
 <h1> Saksham Mandal</h1>
 
-<p><b>Building Scalable Systems | Python Backend | Transitioning into AI/ML</b></p>
+<p><b>Building  Systems | Python Backend | Transitioning into AI/ML</b></p>
 
 <p>
   <a href="https://www.instagram.com/_saksham_jr/">
