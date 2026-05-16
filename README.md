@@ -50,10 +50,9 @@ Full-stack developer focused on backend architecture and scalable systems.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,python,fastapi,flask,postgres,git,github" />
+<img src="https://skillicons.dev/icons?i=react,cpp,c,javascript,html,css,python,fastapi,flask,postgres,git,github" />
 
 </div>
-
 ---
 
 ## 📊 GitHub Stats
